@@ -1,3 +1,4 @@
+- ⚠️ Update Your Kali ⚠️
 - 👋 Hi, I’m @hackerXpandit
 - 👀 I’m interested in kali
 - 🌱 I’m currently learning linux
